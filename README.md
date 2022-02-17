@@ -1,6 +1,10 @@
 # BasicCLanguageObfuscator
 A basic C language obfuscator written in Java taking advantage of regular expressions/RegExr
 
+![alt text](https://i.imgur.com/6UcdrH6.jpg)
+![alt text](https://i.imgur.com/Z2uM01m.jpg)
+
+
 ### How to run -> Command line:
 CObfuscator.jar unbfuscatedSrc.c 
 # Alternatively, the runnable jar file can be generated using the source code file
