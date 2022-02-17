@@ -21,6 +21,7 @@ CObfuscator.jar unbfuscatedSrc.c
 ### How the result looks like
 # Check EXAMPLES folder for more examples
 Original file: example.c
+
 Output file: example213456.c
 
 
